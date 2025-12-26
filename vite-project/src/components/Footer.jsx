@@ -23,14 +23,14 @@ export default function Footer() {
             <div className="flex items-center justify-center sm:justify-start space-x-2 mb-3 sm:mb-4">
               <div className="rounded-lg">
                 <img
-                  src="/logo.png"
+                  src="https://www.epfl.ch/education/education-and-science-outreach/wp-content/uploads/2020/04/Logo-Coding-club-for-girls.png"
                   alt="CodeFlow Logo"
                   className="w-6 h-6 sm:w-8 sm:h-8"
                 />
               </div>
               <span className="text-lg sm:text-xl font-bold">
                 <span className="text-white">Code</span>
-                <span className="text-blue-400">Flow</span>
+                <span className="text-white-400">Academy</span>
               </span>
             </div>
             <p className="text-gray-400 mb-4 sm:mb-6 max-w-xs mx-auto sm:mx-0 text-sm sm:text-base">

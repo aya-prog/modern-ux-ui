@@ -51,6 +51,9 @@ export default function Hero() {
               <span className="bg-gradient-to-r from-white via-pink-100 to-rose-100 bg-clip-text text-transparent block mb-1 sm:mb-2">
                 With CodeFlow AI
               </span>
+              <span className="bg-gradient-to-b from-pink-400 via-rose-400 to-pink-400 bg-clip-text text-transparent block mb-1 sm:mb-2">
+                From Women for Women
+              </span>
             </h1>
 
             <p className="text-md sm:text-base lg:text-lg text-gray-400 max-w-2xl mx-auto lg:mx-0 mb-6 sm:mb-8 animate-in slide-in-from-bottom duration-700 delay-200 leading-relaxed">

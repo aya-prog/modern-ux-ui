@@ -49,7 +49,7 @@ export default function Features() {
               Your Complete Development
             </span>
             <br />
-            <span className="bg-gradient-to-b from-blue-400 to-cyan-400 bg-clip-text text-transparent">
+            <span className="bg-gradient-to-b from-blue-400 to-rose-400 bg-clip-text text-transparent">
               Workflow
             </span>
           </h2>

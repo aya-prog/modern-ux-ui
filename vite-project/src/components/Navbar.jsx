@@ -17,14 +17,14 @@ export default function Navbar({ scrolled }) {
           <div className="flex items-center space-x-1 group cursor-pointer">
             <div>
               <img
-                src="https://www.is2.de/wp-content/uploads/IS2-Logo.png"
+                src="https://www.epfl.ch/education/education-and-science-outreach/wp-content/uploads/2020/04/Logo-Coding-club-for-girls.png"
                 alt="IS2 Logo"
                 className="w-20 h-15 sm:w-20 sm:h-20 rounded-full object-cover"
               />
             </div>
             <span className="text-lg sm:text-xl md:text-2xl font-medium">
-              <span className="text-white">Code</span>
-              <span className="text-blue-400">Flow</span>
+              <span className="text-white">Coding</span>
+              <span className="text-white">Academy</span>
             </span>
           </div>
 
